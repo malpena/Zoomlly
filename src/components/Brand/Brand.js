@@ -11,7 +11,7 @@ const Brand = (props) => {
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-      { <h4>ZOOMLLY HUES - STYLE YOUR WAY!</h4> }
+      { <h4>Zoomlly Hues - Style your way!</h4> }
       <svg
         width={127}
         height={26}
