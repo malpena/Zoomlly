@@ -5,13 +5,13 @@ import * as styles from './Brand.module.css';
 
 const Brand = (props) => {
   return (
-    <img src="https://zoomllyhues.netlify.app/Zoomllylogofull.jpg">
+    
     <div
       className={styles.root}
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-      {/* <h4>SYDNEY</h4> */}
+      {<h4>SYDNEY</h4>}
       <svg
         width={127}
         height={26}
