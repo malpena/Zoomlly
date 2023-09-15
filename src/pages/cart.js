@@ -14,10 +14,10 @@ const CartPage = (props) => {
   const sampleCartItem = {
     image: '/products/pdp1.jpeg',
     alt: '',
-    name: 'Lambswool Crew Neck Jumper',
-    price: 220,
-    color: 'Anthracite Melange',
-    size: 'XS',
+    name: 'Zoom Black T-shirt',
+    price: 25,
+    color: 'Black',
+    size: 'S',
   };
 
   return (
