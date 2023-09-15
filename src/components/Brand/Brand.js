@@ -5,6 +5,7 @@ import * as styles from './Brand.module.css';
 
 const Brand = (props) => {
   return (
+    <img src="https://zoomllyhues.netlify.app/Zoomllylogofull.jpg">
     <div
       className={styles.root}
       role={'presentation'}
