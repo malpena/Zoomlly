@@ -13,7 +13,7 @@ const OrderConfirmPage = (props) => {
           <h1>Thank You!</h1>
           <p>
             We are now processing your order. If you have any concerns feel free
-            to email us at customerservice@example.com
+            to email us at customerservice@zoomlly.com or interact with our <a href = "https://zoomllyhues.netlify.app/">amazing team</a>
           </p>
           <div className={styles.actionContainer}>
             <ActionCard
