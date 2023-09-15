@@ -18,7 +18,7 @@ const Brand = (props) => {
         viewBox="0 0 127.67 23.36"
       >
       </svg>
-      <img src="https://zoomllyhues.netlify.app/zoomly-gen.webp">
+      <img src="https://zoomllyhues.netlify.app/zoomlylogofull.jpg">
     </div>
   );
 };
