@@ -17,9 +17,8 @@ const Brand = (props) => {
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 127.67 23.36"
       >
-      hello
-
       </svg>
+      <img src="https://zoomllyhues.netlify.app/zoomly-gen.webp">
     </div>
   );
 };
