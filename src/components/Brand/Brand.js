@@ -11,7 +11,7 @@ const Brand = (props) => {
       role={'presentation'}
       onClick={() => navigate('/')}
     >
-      {<h4>SYDNEY</h4>}
+      {<img src="https://zoomllyhues.netlify.app/Zoomllylogofull.jpg">}
       <svg
         width={127}
         height={26}
