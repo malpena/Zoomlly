@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'/banner4.png'}
         title={'Chic city looks'}
-        subtitle={'Discover Spring 2024'}
+        subtitle={'Discover Spring 2024!'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
